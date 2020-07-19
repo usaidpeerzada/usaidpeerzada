@@ -9,4 +9,4 @@ I love to code and design new things, when I'm not coding I trek or take picture
 
 
 
-VueJS, ReactJs, EJS, NuxtJs, Gridsome, HTML, CSS, JavaScript, MongoDB, MySql, Mongoose, ExpressJs, NodeJs, REST-API, GraphQL, TailwindCSS, Bulma, MaterializeCss, Bootstrap, Vuetify, Axios, AJAX. 
+#### VueJS, ReactJs, EJS, NuxtJs, Gridsome, HTML, CSS, JavaScript, MongoDB, MySql, Mongoose, ExpressJs, NodeJs, REST-API, GraphQL, TailwindCSS, Bulma, MaterializeCss, Bootstrap, Vuetify, Axios, AJAX. 
