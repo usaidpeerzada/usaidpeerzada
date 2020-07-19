@@ -15,4 +15,7 @@ I love to code and design new things, when I'm not coding I trek or take picture
 Write GraphQL backend in my portfolio website.
 Refactor the code.
 
-#### VueJS, ReactJs, EJS, NuxtJs, Gridsome, HTML, CSS, JavaScript, MongoDB, MySql, Mongoose, ExpressJs, NodeJs, REST-API, GraphQL, TailwindCSS, Bulma, MaterializeCss, Bootstrap, Vuetify, Axios, AJAX, Heroku, Netlify, Git. 
+---
+
+#### Technologies/Frameworks I have used:
+VueJS, ReactJs, EJS, NuxtJs, Gridsome, HTML, CSS, JavaScript, MongoDB, MySql, Mongoose, ExpressJs, NodeJs, REST-API, GraphQL, TailwindCSS, Bulma, MaterializeCss, Bootstrap, Vuetify, Axios, AJAX, Heroku, Netlify, Git. 
