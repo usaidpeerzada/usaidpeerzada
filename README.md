@@ -12,8 +12,7 @@ I love to code and design new things, when I'm not coding I trek or take picture
 1. GraphQL.
 2. Gatsby.
 ##### ToDo's:
-Write GraphQL backend in my portfolio website.
-Refactor the code.
+Learn Redux
 
 ---
 
