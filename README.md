@@ -9,10 +9,7 @@ I love to code and design new things, when I'm not coding I trek or take picture
 
 
 ##### Currently Learning:
-1. GraphQL.
-2. Gatsby.
-##### ToDo's:
-Learn Redux
+1. React native.
 
 ---
 
