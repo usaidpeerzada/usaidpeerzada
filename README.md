@@ -1,17 +1,15 @@
 ### Hi there, I'm Usaid 👋 
 ---
 
-I'm a full-stack developer with a designing background. I love VueJs and it's frameworks.
-
-I read somewhere that "You Die When You Stop Learning", this quote motivates me to learn and be better everyday.
+I'm a full-stack developer. 
 
 I love to code and design new things, when I'm not coding I trek or take pictures of the beautiful nature.
 
 
 ##### Currently Learning:
-1. React native.
+1. C
 
 ---
 
-#### Technologies/Frameworks I have used:
-VueJS, ReactJs, EJS, NuxtJs, Gridsome, HTML, CSS, JavaScript, MongoDB, MySql, Mongoose, ExpressJs, NodeJs, REST-API, GraphQL, TailwindCSS, Bulma, MaterializeCss, Bootstrap, Vuetify, Axios, AJAX, Heroku, Netlify, Git. 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidpeerzada&count_private=true" alt="Usaid's Language Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=usaidpeerzada&count_private=true" alt="Usaid's Github Stats">
