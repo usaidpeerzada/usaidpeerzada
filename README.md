@@ -3,9 +3,9 @@
 
 - 👨‍💻 I'm a full-stack developer. 
 
-- ❤️ I love to code and design new things, when I'm not coding I trek or take pictures of the beautiful nature.
+- ❤️ I love to code and design new things, when I'm not coding ride my motorcycle to far places and take pictures of the beautiful nature.
 
-- 🌱 I’m currently learning ReactJs and React-native.
+- 🌱 I’m currently learning Kotlin.
 
 ---
 <div class="center">
