@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a knack for buildi
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaidpeerzada&layout=compact&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidpeerzada&theme=dark" alt="Commit Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaidpeerzada&theme=dark" alt="Commit Streak" width="49%" />
 </div>
 
 ## 🌱 Currently Learning
